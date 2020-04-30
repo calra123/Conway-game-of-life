@@ -7,9 +7,9 @@ I also wanted to make it multiplayer and real-time, but when I searched online, 
 
 # Steps for Windows
 1) Open cmd or powershell
-2) Enter `pip install pygame` and run 
+2) Enter `pip install pygame` and run this command. Further instructions
 https://www.pygame.org/wiki/GettingStarted#Windows%20installation
-3) Run python trial_game3.py
+3) Run `python trial_game3.py` on the cmd.
 
 # How to Play the Game
 1) Add consecutives/adjacent cubes anywhere.
