@@ -9,7 +9,8 @@ I also wanted to make it multiplayer and real-time, but when I searched online, 
 1) Open cmd or powershell
 2) Enter `pip install pygame` and run this command. Further instructions
 https://www.pygame.org/wiki/GettingStarted#Windows%20installation
-3) Run `python trial_game3.py` on the cmd.
+3) Enter `pip install pygame-menu` and hit Enter.
+4) Run `python trial_game3.py` on the cmd.
 
 # How to Play the Game
 1) Add consecutives/adjacent cubes anywhere.
@@ -18,4 +19,7 @@ https://www.pygame.org/wiki/GettingStarted#Windows%20installation
 Caution: For starters, play in the middle. Try glider or a vertical of 3 cubes. https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
 Note: Press Spacebar for next generation.
-Note: The board is finite here, when the blocks reach towards the edges they don't follow the conway rules.
+# Known Issues
+1) The board is finite here, when the blocks reach towards the edges they don't follow the conway rules.
+2) The Play button doesn't resumes the game anymore, its similar to Reset button.
+3) To reset the game, hit Spacebar, after clicking Reset. (as told in the Instructions)
