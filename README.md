@@ -1,4 +1,6 @@
 # Conway-game-of-life
+### Introduction
+Game of Life was devloped by mathematician John Conway. It is a zero player game which simulates life. Populations expand, contract, form clusters and follow periodicity in erratic manner, all in all its beautiful.
 
 The game has been made in Python using Pygame, it is just a bunch of functions clubbed together to make it run.
 ### Ambitions
@@ -9,7 +11,7 @@ I also wanted to make it multiplayer and real-time, but when I searched online, 
 1) Open cmd or powershell
 2) Enter `pip install pygame` and run this command. Further instructions
 https://www.pygame.org/wiki/GettingStarted#Windows%20installation
-3) Enter `pip install pygame-menu` and hit Enter.
+3) Type `pip install pygame-menu` and hit Enter.
 4) Run `python trial_game3.py` on the cmd.
 
 # How to Play the Game
