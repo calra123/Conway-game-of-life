@@ -21,6 +21,16 @@ https://www.pygame.org/wiki/GettingStarted#Windows%20installation
 Caution: For starters, play in the middle. Try glider or a vertical of 3 cubes. https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
 Note: Press Spacebar for next generation.
+## Main Game Menu
+Type your name here.
+
+![image](images/conway_game_menu.png)
+## Generation 1
+![image](images/conway_gen1.png)
+## Generation 2
+![image](images/conway_gen2.png)
+## Generation 3
+![image](images/conway_gen3.png)
 ## Known Issues
 1) The board is finite here, when the blocks reach towards the edges they don't follow the conway rules.
 2) The Play button doesn't resumes the game anymore, its similar to Reset button.
